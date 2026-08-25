@@ -1,0 +1,22 @@
+[
+  {"x": 100.0, "y": 250.0, "z": 62.0, "magnetic_intensity": 10.1},
+  {"x": 105.0, "y": 250.0, "z": 62.0, "magnetic_intensity": 10.4},
+  {"x": 110.0, "y": 250.0, "z": 62.0, "magnetic_intensity": 11.0},
+  {"x": 115.0, "y": 250.0, "z": 62.0, "magnetic_intensity": 12.3},
+  {"x": 120.0, "y": 250.0, "z": 62.0, "magnetic_intensity": 22.4},
+  {"x": 125.0, "y": 250.0, "z": 62.0, "magnetic_intensity": 26.7},
+  {"x": 130.0, "y": 250.0, "z": 62.0, "magnetic_intensity": 23.1},
+  {"x": 135.0, "y": 250.0, "z": 62.0, "magnetic_intensity": 12.7},
+  {"x": 140.0, "y": 250.0, "z": 62.0, "magnetic_intensity": 11.1},
+  {"x": 145.0, "y": 250.0, "z": 62.0, "magnetic_intensity": 10.3},
+  {"x": 100.0, "y": 260.0, "z": 65.0, "magnetic_intensity": 9.8},
+  {"x": 105.0, "y": 260.0, "z": 65.0, "magnetic_intensity": 10.2},
+  {"x": 110.0, "y": 260.0, "z": 65.0, "magnetic_intensity": 10.7},
+  {"x": 115.0, "y": 260.0, "z": 65.0, "magnetic_intensity": 11.5},
+  {"x": 120.0, "y": 260.0, "z": 65.0, "magnetic_intensity": 21.8},
+  {"x": 125.0, "y": 260.0, "z": 65.0, "magnetic_intensity": 24.3},
+  {"x": 130.0, "y": 260.0, "z": 65.0, "magnetic_intensity": 22.0},
+  {"x": 135.0, "y": 260.0, "z": 65.0, "magnetic_intensity": 11.3},
+  {"x": 140.0, "y": 260.0, "z": 65.0, "magnetic_intensity": 10.5},
+  {"x": 145.0, "y": 260.0, "z": 65.0, "magnetic_intensity": 9.9}
+]

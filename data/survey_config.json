@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "survey_id": "GS-2024-017",
+    "sensor_model": "MagStar-3000",
+    "coordinate_system": "local_grid",
+    "notes": "Autumn campaign, Block North and Block East"
+  },
+  "sites": [
+    {"file": "data/survey_north.csv", "anomaly_threshold": 20.0},
+    {"file": "data/survey_east.json", "anomaly_threshold": 18.0}
+  ]
+}

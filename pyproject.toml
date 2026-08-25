@@ -1,0 +1,18 @@
+[project]
+name = "survey-processor-screen"
+version = "0.1.0"
+description = "Geophysical survey data processor"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+    "pytest-cov>=5",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = ["--import-mode=importlib"]

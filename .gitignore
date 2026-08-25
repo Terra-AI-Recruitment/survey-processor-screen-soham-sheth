@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+
+# uv / virtualenv
+.venv/
+uv.lock
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Linting
+.ruff_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+.zed/
+
+# Generated output — run process.py to regenerate
+!output/.gitkeep
